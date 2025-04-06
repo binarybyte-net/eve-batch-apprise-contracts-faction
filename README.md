@@ -1,4 +1,4 @@
-NOT FULLY COMPLETE!
+NOT FULLY COMPLETE! - Automate it further if you want. Currently it still require a little of human input.
 
 Adam4EVE Contract Appraisal Tool
 ================================
